@@ -1,0 +1,5 @@
+{
+  "name": "Free Image Format Converter",
+  "description": "A client-side web application that allows users to convert images to different formats like PNG, JPEG, and WEBP for free. Upload an image, choose your desired format, and download the result instantly.",
+  "requestFramePermissions": []
+}
